@@ -5,6 +5,7 @@ This is my slight update to [Miria Grunick's Blinky Box](https://github.com/miri
 ![Blinkybox](https://raw.githubusercontent.com/lindsayrgwatt/blinkybox/master/blinkybox.jpg)
 
 Three changes:
+
 1. I added a switch so the box has two modes:
   1. Solid color mode - each LED pulses with the same color as the button pushed
   2. Animated mode - each LED iterates over a preset routine
